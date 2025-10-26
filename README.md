@@ -1,2 +1,2 @@
 # my-codes
-My codes since 2023.
+My codes I used in SSP for my research on orbit determination of a near earth asteroid. Used methods like Gauss's Method to determine the orbital elements of a near-Earth asteroid, using observational data like right ascension, declination, and Julian dates. My codes use libraries such as NumPy and Astropy to perform calculations, have also included numerical integrators to model the asteroid's orbit and collision analysis. 
